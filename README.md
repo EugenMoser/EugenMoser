@@ -8,7 +8,7 @@ Thanks 🖤 for visiting my github profile!
 
 Feel free to contact me
 
-[📫 mailto](mailto:info@eugen-moser.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developermoser@gmail.com)
 
 or visit my website: 
 
