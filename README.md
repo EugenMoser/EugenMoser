@@ -19,3 +19,7 @@ My **hobbies** are:
 - hiking
 - and programming of course
 
+| col1        | col2           | col3  |
+| ------------- |:-------------:| -----:|
+| test1      | test1 | test1 |
+| test2      | test2      |   test2 |
