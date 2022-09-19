@@ -9,3 +9,13 @@ Feel free to contact me.
 [www.eugen-moser.com](https://www.eugen-moser.com)
 
 ![web dev](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+My Hobbys are:
+- tabletennis
+- snowboarding
+- beach volleyball
+- climbing
+- mountainbiking
+- hiking
+- and programming of course
+
