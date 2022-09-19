@@ -8,7 +8,7 @@ Thanks 🖤 for visiting my github profile!
 
 Feel free to contact me:
 
-[mailto](mailto:info@eugen-moser.com)
+[to](mailto:info@eugen-moser.com)
 
 or visit my website:
 
@@ -16,12 +16,9 @@ or visit my website:
 
 ![web dev](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-my **Tech Stack**: 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Vite.js
+## Skills: 
+* 💻 HTML, CSS, JavaScript
+* ⚛ React.js
 * MongoDB
 * Node.js
 * Express.js
@@ -30,8 +27,7 @@ my **Tech Stack**:
 * Microsoft Excel
 * Microsoft Office
 
-[![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenMoser&theme=dark&show_icons=true)
-
+![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenMoser&theme=dark&show_icons=true)
 
 
 
