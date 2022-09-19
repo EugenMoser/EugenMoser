@@ -10,8 +10,8 @@ Feel free to contact me.
 
 ![web dev](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-My Hobbys are:
-- tabletennis
+My **hobbies** are:
+- table tennis
 - snowboarding
 - beach volleyball
 - climbing
