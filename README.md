@@ -14,8 +14,6 @@ or visit my website:
 
 [🕸️ eugen-moser.com](https://www.eugen-moser.com)
 
-![web dev](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
 ## Skills: 
 * 💻 HTML, CSS, JavaScript
 * ⚛ React.js 
