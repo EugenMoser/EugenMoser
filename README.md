@@ -26,4 +26,4 @@ or visit my website:
 * Microsoft Office
 
 ![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenMoser&theme=dark&show_icons=true)
-[![Eugen's GitHub streak](https://streak-stats.demolab.com/?user=EugenMoser)](https://git.io/streak-stats)
+[![Eugen's GitHub streak](https://streak-stats.demolab.com/?user=EugenMoser&theme=dark)](https://git.io/streak-stats)
