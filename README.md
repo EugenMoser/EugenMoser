@@ -14,7 +14,7 @@ or visit my website:
 
 [🕸️ eugen-moser.com](https://www.eugen-moser.com)
 
-## Skills: 
+## Tech - Skills: 
 * 💻 HTML, CSS, JavaScript
 * ⚛ React.js 
 * MongoDB
@@ -26,3 +26,4 @@ or visit my website:
 * Microsoft Office
 
 ![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenMoser&theme=dark&show_icons=true)
+[![Eugen's GitHub streak](https://streak-stats.demolab.com/?user=EugenMoser)](https://git.io/streak-stats)
