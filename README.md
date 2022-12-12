@@ -2,7 +2,7 @@
 
 I'm **Eugen** from Germany 🍻.
 
-After a long time in the automotive industry, I decided to become a _web developer_ @ [neueFische](https://www.neuefische.de).
+After a long time in the automotive industry, I decided to become a **web developer**.
 
 Thanks 🖤 for visiting my github profile!
 
