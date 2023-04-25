@@ -1,6 +1,6 @@
 # <Hi guys 👋/>,
 
-I'm **Eugen** from Germany 🍻.
+I'm **Eugen** from Germany.
 
 After a long time in the automotive industry, I decided to become a **web developer**.
 
