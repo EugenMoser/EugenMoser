@@ -30,4 +30,4 @@ Feel free to contact me
 
 
 ![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenMoser&theme=dark&show_icons=true)
-[![Eugen's GitHub streak](https://streak-stats.demolab.com/?user=EugenMoser&theme=dark)](https://git.io/streak-stats)
+
