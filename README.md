@@ -2,13 +2,9 @@
 
 I'm **Eugen** from Germany.
 
-After a long time in the automotive industry, I decided to become a **web developer**.
-
 Thanks 🖤 for visiting my github profile!
 
 Feel free to contact me
-
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developermoser@gmail.com)
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-moser-46b69b186/)
 
