@@ -26,5 +26,5 @@ Feel free to contact me
 
 
 ![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenMoser&theme=dark&show_icons=true)
-[![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=EugenMoser)](https://github.com/anuraghazra/github-readme-stats)
+[![Eugen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EugenMoser)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
