@@ -2,7 +2,7 @@
 
 ## Full-Stack React Developer · Building with AI · Next.js · TypeScript
 
-[![eugen-moser.com](https://eugen-moser.com)
+[eugen-moser.com](https://eugen-moser.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-moser)
 
