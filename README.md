@@ -12,6 +12,7 @@ sondern auch die Anforderungen dahinter.
 
 📬 **Open for freelance projects** – [job@eugen-moser.com](mailto:job@eugen-moser.com)
 
+---
 
 [![Website](https://img.shields.io/badge/eugen--moser.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eugen-moser.com)
 
@@ -36,3 +37,7 @@ sondern auch die Anforderungen dahinter.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+> 🔭 Currently building: [Shoegen](https://github.com/EugenMoser/Shoegen) · AI-powered eCommerce Demo
