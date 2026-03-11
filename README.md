@@ -2,6 +2,17 @@
 
 ## Full-Stack React Developer · Building with AI · Next.js · TypeScript
 
+### About
+
+React & Next.js Fullstack Developer mit Fokus auf saubere Architektur und KI-Integration.  
+Ich baue Web-Applikationen, die funktionieren – wartbar, skalierbar, und mit echtem Business-Mehrwert.
+
+Mit einem kaufmännischen Hintergrund (IHK Wirtschaftsfachwirt) verstehe ich nicht nur den Code,  
+sondern auch die Anforderungen dahinter.
+
+📬 **Open for freelance projects** – [job@eugen-moser.com](mailto:job@eugen-moser.com)
+
+
 [![Website](https://img.shields.io/badge/eugen--moser.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eugen-moser.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-moser)
