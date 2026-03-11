@@ -1,10 +1,8 @@
 # <Hi guys 👋/>,
 
-I'm **Eugen** from Germany.
+## Full-Stack React Developer · Building with AI · Next.js · TypeScript
 
-Thanks 🖤 for visiting my github profile!
-
-Feel free to contact me
+[![eugen-moser.com](https://eugen-moser.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-moser)
 
